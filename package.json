@@ -1,20 +1,20 @@
 {
-  "name": "@johnpapa/card",
-  "version": "1.0.5",
-  "description": "A personal card for John Papa",
+  "name": "@jotagep/card",
+  "version": "1.0.2",
+  "description": "A personal card for JOTAGEP",
   "main": "index.js",
   "bin": {
-    "johnpapa-card": "./bin/index.js"
+    "jotagep-card": "./bin/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnpapa/johnpapa-card.git"
+    "url": "https://github.com/jotagep/jotagep-card.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "John Papa (http://johnpapa.net)",
+  "author": "Jorge G. Palacin (https://jotagep.com)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
